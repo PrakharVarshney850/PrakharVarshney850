@@ -7,7 +7,7 @@
 
 - "Streamlining transactions and simplifying payments with an intuitive and user-friendly Payment App UI." [Payment App UI](https://www.figma.com/file/YJ3VjTqwBLHuV8aVV7dwTT/Final-Project?type=design&node-id=0%3A1&mode=design&t=8bC9IUhP7i82ruhL-1)
 
-- 👨‍💻 Know me more [https://adorable-sherbet-7c3170.netlify.app/](https://adorable-sherbet-7c3170.netlify.app/)
+- 👨‍💻 Know me more https://prakharvarshney.netlify.app/
 
 - 💬 Ask me about **UI/UX design principles and creating intuitive user interfaces.**
 
