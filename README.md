@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **varshneyprakhar850@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1wnsRbarOUdE4ip58ZCoao63MsNHR8edr/view](https://drive.google.com/file/d/1wnsRbarOUdE4ip58ZCoao63MsNHR8edr/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1LOvbLcxTR1QEgOkDfBuhJq1sHzuwy7bW/view]
 
 - 🔨 **I'm always excited to work on new projects and collaborate with fellow developers. If you have any interesting ideas or opportunities, feel free to reach out!.🌟 Let's build innovative and user-friendly digital experiences together!**
 
